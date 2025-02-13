@@ -1,1 +1,4 @@
 npm install recharts @radix-ui/react-dialog @shadcn/ui
+git add package.json package-lock.json
+git commit -m "Installed required dependencies for UI components and charts"
+git push origin main
